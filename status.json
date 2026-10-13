@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T04:02:43-04:00",
+ "generated": "2026-10-13T04:12:45-04:00",
  "checks": [
   {
    "check_id": "nexus:194216",
@@ -7,7 +7,7 @@
    "label": "Blackshield Codex",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194216",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Blackshield Company",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194203",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -25,7 +25,7 @@
    "label": "Champion's Reforge",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194336",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -34,7 +34,7 @@
    "label": "Contract Hunter",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194206",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -43,7 +43,7 @@
    "label": "Daedric Ledger: Bounties of Oblivion",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194204",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -52,7 +52,7 @@
    "label": "Ember Smithing",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194210",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -61,7 +61,7 @@
    "label": "Oathbreaker's Price",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194335",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -70,7 +70,7 @@
    "label": "Roadwarden",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194222",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -79,7 +79,7 @@
    "label": "Sellsword Roster",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194224",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -88,7 +88,7 @@
    "label": "Steel Oath",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194208",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -97,7 +97,7 @@
    "label": "The Barrow-Iron Pact",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194337",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -106,7 +106,7 @@
    "label": "The Gray-Mane Debt",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194214",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -115,7 +115,7 @@
    "label": "The Ledger of Ash",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194334",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -124,7 +124,7 @@
    "label": "The Turncoat Contract",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194333",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -133,7 +133,7 @@
    "label": "War Banners",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194220",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-13T01:28:05-04:00"
   },
   {
@@ -142,7 +142,7 @@
    "label": "Blackshield Codex",
    "target": "https://github.com/Blackshield-Company/blackshield-codex/releases/download/v0.1.0/BlackshieldCodex-0.1.0.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -151,7 +151,7 @@
    "label": "Blackshield Company",
    "target": "https://github.com/Blackshield-Company/blackshield-company/releases/download/v0.1.2/BlackshieldCompany-0.1.2.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T08:10:20-04:00"
   },
   {
@@ -160,7 +160,7 @@
    "label": "Champion's Reforge",
    "target": "https://github.com/Blackshield-Company/champions-reforge/releases/download/v0.1.1/ChampionsReforge-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -169,7 +169,7 @@
    "label": "Contract Hunter",
    "target": "https://github.com/Blackshield-Company/contract-hunter/releases/download/v0.1.3/ContractHunter-0.1.3.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T10:20:25-04:00"
   },
   {
@@ -178,7 +178,7 @@
    "label": "Daedric Ledger: Bounties of Oblivion",
    "target": "https://github.com/Blackshield-Company/bounties-of-oblivion/releases/download/v0.1.2/BountiesOfOblivion-0.1.2.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T18:10:28-04:00"
   },
   {
@@ -187,7 +187,7 @@
    "label": "Ember Smithing",
    "target": "https://github.com/Blackshield-Company/ember-smithing/releases/download/v0.1.0/EmberSmithing-0.1.0.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -196,7 +196,7 @@
    "label": "Oathbreaker's Price",
    "target": "https://github.com/Blackshield-Company/oathbreakers-price/releases/download/v0.1.1/OathbreakersPrice-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T19:40:19-04:00"
   },
   {
@@ -205,7 +205,7 @@
    "label": "Roadwarden",
    "target": "https://github.com/Blackshield-Company/roadwarden/releases/download/v0.1.1/Roadwarden-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -214,7 +214,7 @@
    "label": "Sellsword Roster",
    "target": "https://github.com/Blackshield-Company/sellsword-roster/releases/download/v0.1.0/SellswordRoster-0.1.0.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -223,7 +223,7 @@
    "label": "Steel Oath",
    "target": "https://github.com/Blackshield-Company/steel-oath/releases/download/v0.1.1/SteelOath-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T08:10:20-04:00"
   },
   {
@@ -232,7 +232,7 @@
    "label": "The Barrow-Iron Pact",
    "target": "https://github.com/Blackshield-Company/barrow-iron-pact/releases/download/v0.1.1/BarrowIronPact-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -241,7 +241,7 @@
    "label": "The Gray-Mane Debt",
    "target": "https://github.com/Blackshield-Company/the-gray-mane-debt/releases/download/v0.1.2/GrayManeDebt-0.1.2.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T09:10:32-04:00"
   },
   {
@@ -250,7 +250,7 @@
    "label": "The Ledger of Ash",
    "target": "https://github.com/Blackshield-Company/the-ledger-of-ash/releases/download/v0.1.1/LedgerOfAsh-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -259,7 +259,7 @@
    "label": "The Turncoat Contract",
    "target": "https://github.com/Blackshield-Company/the-turncoat-contract/releases/download/v0.1.1/TurncoatContract-0.1.1.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T08:10:20-04:00"
   },
   {
@@ -268,7 +268,7 @@
    "label": "War Banners",
    "target": "https://github.com/Blackshield-Company/war-banners/releases/download/v0.2.0/WarBanners-0.2.0.zip",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   },
   {
@@ -331,7 +331,7 @@
    "label": "blackshield-company.pages.dev",
    "target": "https://blackshield-company.pages.dev",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-12T06:30:36-04:00"
   },
   {
@@ -340,7 +340,7 @@
    "label": "synth-webhook relay",
    "target": "https://synth-webhook.synthalorian.workers.dev/health",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T23:00:18-04:00"
   },
   {
@@ -349,41 +349,41 @@
    "label": "synthalorian.pages.dev",
    "target": "https://synthalorian.pages.dev",
    "state": "up",
-   "last_ts": "2026-10-13T04:01:59-04:00",
+   "last_ts": "2026-10-13T04:10:14-04:00",
    "since": "2026-10-11T22:10:35-04:00"
   }
  ],
  "uptime_7d": {
-  "nexus:194216": 98.20359281437125,
-  "nexus:194203": 98.20359281437125,
-  "nexus:194336": 98.20359281437125,
-  "nexus:194206": 98.20359281437125,
-  "nexus:194204": 98.20359281437125,
-  "nexus:194210": 98.20359281437125,
-  "nexus:194335": 98.20359281437125,
-  "nexus:194222": 98.20359281437125,
-  "nexus:194224": 98.20359281437125,
-  "nexus:194208": 98.25581395348837,
-  "nexus:194337": 98.20359281437125,
-  "nexus:194214": 98.20359281437125,
-  "nexus:194334": 98.20359281437125,
-  "nexus:194333": 98.20359281437125,
-  "nexus:194220": 98.21428571428571,
-  "release:blackshield-codex": 99.40119760479041,
-  "release:blackshield-company": 99.40119760479041,
+  "nexus:194216": 98.21428571428571,
+  "nexus:194203": 98.21428571428571,
+  "nexus:194336": 98.21428571428571,
+  "nexus:194206": 98.21428571428571,
+  "nexus:194204": 98.21428571428571,
+  "nexus:194210": 98.21428571428571,
+  "nexus:194335": 98.21428571428571,
+  "nexus:194222": 98.21428571428571,
+  "nexus:194224": 98.21428571428571,
+  "nexus:194208": 98.26589595375722,
+  "nexus:194337": 98.21428571428571,
+  "nexus:194214": 98.21428571428571,
+  "nexus:194334": 98.21428571428571,
+  "nexus:194333": 98.21428571428571,
+  "nexus:194220": 98.22485207100591,
+  "release:blackshield-codex": 99.40476190476191,
+  "release:blackshield-company": 99.40476190476191,
   "release:champions-reforge": 100.0,
-  "release:contract-hunter": 99.40119760479041,
-  "release:bounties-of-oblivion": 99.40119760479041,
-  "release:ember-smithing": 99.40119760479041,
-  "release:oathbreakers-price": 99.40119760479041,
+  "release:contract-hunter": 99.40476190476191,
+  "release:bounties-of-oblivion": 99.40476190476191,
+  "release:ember-smithing": 99.40476190476191,
+  "release:oathbreakers-price": 99.40476190476191,
   "release:roadwarden": 100.0,
-  "release:sellsword-roster": 99.40119760479041,
-  "release:steel-oath": 99.4186046511628,
+  "release:sellsword-roster": 99.40476190476191,
+  "release:steel-oath": 99.42196531791907,
   "release:barrow-iron-pact": 100.0,
-  "release:the-gray-mane-debt": 98.80239520958084,
+  "release:the-gray-mane-debt": 98.80952380952381,
   "release:the-ledger-of-ash": 100.0,
-  "release:the-turncoat-contract": 99.40119760479041,
-  "release:war-banners": 99.40476190476191,
+  "release:the-turncoat-contract": 99.40476190476191,
+  "release:war-banners": 99.40828402366864,
   "release:company-quartermaster": 100.0,
   "release:ghostbin": 100.0,
   "release:open-synth": 100.0,
