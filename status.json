@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T21:31:09-04:00",
+ "generated": "2026-10-12T21:41:21-04:00",
  "checks": [
   {
    "check_id": "nexus:194216",
@@ -308,6 +308,15 @@
    "since": "2026-10-12T01:50:03-04:00"
   },
   {
+   "check_id": "release:scarred-steel",
+   "kind": "release",
+   "label": "scarred-steel",
+   "target": "https://github.com/Blackshield-Company/scarred-steel/releases/download/v0.1.0/ScarredSteel-0.1.0.zip",
+   "state": "up",
+   "last_ts": "2026-10-12T21:34:23-04:00",
+   "since": "2026-10-12T21:34:23-04:00"
+  },
+  {
    "check_id": "release:void-mercs-demo",
    "kind": "release",
    "label": "void-mercs-demo",
@@ -379,6 +388,7 @@
   "release:ghostbin": 100.0,
   "release:open-synth": 100.0,
   "release:Blackshield-Company/openshield": 100.0,
+  "release:scarred-steel": 100.0,
   "release:void-mercs-demo": 100.0,
   "blackshield-site": 100.0,
   "webhook-relay": 100.0,
