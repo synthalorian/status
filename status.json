@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T20:20:30-05:00",
+ "generated": "2026-11-05T20:30:34-05:00",
  "checks": [
   {
    "check_id": "nexus:194216",
@@ -34,7 +34,7 @@
    "label": "Contract Hunter",
    "target": "https://www.nexusmods.com/skyrimspecialedition/mods/194206",
    "state": "up",
-   "last_ts": "2026-11-05T20:20:26-05:00",
+   "last_ts": "2026-11-05T20:21:27-05:00",
    "since": "2026-10-14T10:20:15-04:00"
   },
   {
@@ -167,9 +167,9 @@
    "check_id": "release:contract-hunter",
    "kind": "release",
    "label": "Contract Hunter",
-   "target": "https://github.com/Blackshield-Company/contract-hunter/releases/download/v0.1.4/ContractHunter-0.1.4.zip",
+   "target": "https://github.com/Blackshield-Company/contract-hunter/releases/download/v0.2.0/ContractHunter-0.2.0.zip",
    "state": "up",
-   "last_ts": "2026-11-05T20:20:26-05:00",
+   "last_ts": "2026-11-05T20:21:27-05:00",
    "since": "2026-10-22T13:10:54-04:00"
   },
   {
@@ -442,21 +442,21 @@
   "nexus:194334": 100.0,
   "nexus:194333": 100.0,
   "nexus:194220": 100.0,
-  "release:blackshield-codex": 99.90147783251231,
-  "release:blackshield-company": 99.80295566502463,
-  "release:champions-reforge": 99.90147783251231,
+  "release:blackshield-codex": 99.90128331688055,
+  "release:blackshield-company": 99.8025666337611,
+  "release:champions-reforge": 99.90128331688055,
   "release:contract-hunter": 100.0,
   "release:bounties-of-oblivion": 100.0,
-  "release:ember-smithing": 99.90147783251231,
+  "release:ember-smithing": 99.90128331688055,
   "release:oathbreakers-price": 100.0,
-  "release:roadwarden": 99.90147783251231,
+  "release:roadwarden": 99.90128331688055,
   "release:sellsword-roster": 100.0,
   "release:steel-oath": 100.0,
   "release:barrow-iron-pact": 100.0,
   "release:the-gray-mane-debt": 100.0,
-  "release:the-ledger-of-ash": 99.90147783251231,
+  "release:the-ledger-of-ash": 99.90128331688055,
   "release:the-turncoat-contract": 100.0,
-  "release:war-banners": 99.90147783251231,
+  "release:war-banners": 99.90128331688055,
   "release:company-quartermaster": null,
   "release:ghostbin": null,
   "release:synthalorian/glyphsmith-themes": null,
